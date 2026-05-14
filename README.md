@@ -10,7 +10,7 @@
 ## About Me
 
 - 🧑‍🎓 My name is **Distance0x**, an undergraduate student from **SJTU**
-- 💻 Interested in **LLM**, **Agent**
+- 💻 Interested in **LLM**, **Agent**, **System**
 
 ### How to reach me
 - 📫 Email: **2629754447@qq.com**
